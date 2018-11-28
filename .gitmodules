@@ -1,4 +1,4 @@
 [submodule "SpongeCommon"]
 	path = SpongeCommon
 	url = https://github.com/digiwiz11/SpongeCommon.git
-	branch = bleeding
+	branch = hardrockrealms/atm3-remix-7.1.4
